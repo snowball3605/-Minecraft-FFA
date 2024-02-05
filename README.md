@@ -2,6 +2,7 @@
 ## Overview
 
 This plugin can help you start FFA faster.
+This plug-in is maintained by only one person and the update speed is very slow. Please forgive me.
 
 ## Commands
 
