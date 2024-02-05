@@ -15,6 +15,7 @@ This plugin can help you start FFA faster.
 - Database support (Kill and Died will record in database)
 - Customized spawn point
 - Customize Give Armor
+- multiple languages (Simplified Chinese, Traditional Chinese, Spanish, Japanese)
 
 ## Configuration
 
